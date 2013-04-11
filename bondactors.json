@@ -1,0 +1,50 @@
+{
+	"deck" : {
+		"name": "Bond Actors",
+		"version": "",
+		"best": "Most Preferred Actor",
+		"worst": "Least Preferred Actor",
+		"cards": [
+			{
+				"id": "nelson",
+				"text": "Barry Nelson",
+				"help": "1954, one movie."
+			},
+			{
+				"id": "niven",
+				"text": "David Niven",
+				"help": "1967, one movie."
+			},
+			{
+				"id": "connery",
+				"text": "Sean Connery",
+				"help": "1962-1983, seven movies."
+			},
+			{
+				"id": "lazenby",
+				"text": "George Lazenby",
+				"help": "1969, 1 movie."
+			},
+			{
+				"id": "moore",
+				"text": "Roger Moore",
+				"help": "1973-1985, 7 movies."
+			},
+			{
+				"id": "moore",
+				"text": "Timothy Dalton",
+				"help": "1987-1989, 2 movies."
+			},
+			{
+				"id": "brosnan",
+				"text": "Pierce Brosnan",
+				"help": "1995-2002, 4 movies."
+			},
+			{
+				"id": "craig",
+				"text": "Daniel Craig",
+				"help": "2006-2013, 3 movies."
+			}
+		]
+	}
+}
